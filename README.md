@@ -16,7 +16,7 @@ L'application Anti-Gaspi aide à réduire le gaspillage alimentaire en permettan
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/username/anti-gaspi-app.git
+   git clone https://github.com/kevine09/antiGaspi.git
 ## Fonctionnalités
 - Publication d’annonces : Les utilisateurs peuvent publier des annonces pour les excédents alimentaires.
 - Recherche de dons : Trouvez des dons alimentaires près de chez vous.
